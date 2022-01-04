@@ -708,6 +708,7 @@ a {
     font-size: 1.3rem;
     font-weight: bold;
     padding: 10px 20px;
+    cursor: pointer;
 }
 
 .portfolio__nav ul .portfolio__list.active {
