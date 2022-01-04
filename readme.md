@@ -23,6 +23,9 @@
 
 - Finalização da responsividade
 - Adição de novos recursos no template
+- Páginas secundárias 
+- Página de Contato
+- Envio de email 
 
 # Techs:
 
